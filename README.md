@@ -6,6 +6,6 @@ In Ubuntu, install by entering "sudo apt-get install libsdl2-dev" into the termi
 
 Installation:
 Clone the repository to your computer.
-cd into the directory
-type "make"
+cd into the directory,
+type "make",
 type "./gravcalc"
